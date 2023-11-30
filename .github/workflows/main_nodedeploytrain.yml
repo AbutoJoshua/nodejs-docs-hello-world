@@ -59,4 +59,4 @@ jobs:
           app-name: 'nodedeploytrain'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_374FBC31264E413993F696B2834A55B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E35DD5203AA542D5944CA461DB400E59 }}
